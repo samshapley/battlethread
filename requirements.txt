@@ -1,0 +1,20 @@
+# Wikipedia Data Download Requirements
+
+# For API-based downloads
+requests>=2.31.0
+
+# For XML dump processing  
+lxml>=4.9.0  # Alternative to ElementTree for better performance
+
+# Optional: Enhanced Wikipedia API wrappers
+wikipedia-api>=0.6.0
+pywikibot>=8.0.0
+
+# Optional: Wiki markup parsing
+mwparserfromhell>=0.6.5
+
+# Optional: Progress bars for better UX
+tqdm>=4.66.0
+
+# Optional: For parallel processing of dumps
+multiprocessing-logging>=0.3.4
