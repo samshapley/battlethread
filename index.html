@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BattleThread - Historical Battle Timeline</title>
+    <link rel="stylesheet" href="styles/timeline.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Left Timeline Panel -->
+        <aside class="timeline-panel">
+            <header class="timeline-header">
+                <h1>BATTLETHREAD</h1>
+                <input type="search" 
+                       class="search-input" 
+                       placeholder="Search battles..."
+                       id="searchInput">
+            </header>
+            
+            <!-- Mini Map -->
+            <div class="minimap-container">
+                <div class="minimap" id="minimap">
+                    <div class="minimap-viewport" id="minimapViewport"></div>
+                </div>
+            </div>
+            
+            <!-- Main Timeline -->
+            <div class="timeline-container" id="timelineContainer">
+                <div class="timeline-content" id="timelineContent">
+                    <div class="timeline-line"></div>
+                    <div class="timeline-items" id="timelineItems">
+                        <!-- Timeline items will be dynamically inserted here -->
+                    </div>
+                </div>
+            </div>
+            
+            <footer class="timeline-footer">
+                <span id="battleCount">Loading battles...</span>
+            </footer>
+        </aside>
+        
+        <!-- Right Content Panel (Future) -->
+        <main class="content-panel">
+            <div class="content-placeholder">
+                <h2>Select a battle</h2>
+                <p>Choose a battle from the timeline to view details</p>
+            </div>
+        </main>
+    </div>
+    
+    <script src="js/virtual-scroll.js?v=3"></script>
+    <script src="js/timeline.js?v=3"></script>
+</body>
+</html>

@@ -1,0 +1,3210 @@
+{
+  "battles": [
+    {
+      "id": "generated_battle_73",
+      "name": "Raid of Europe 3000 BC",
+      "date": {
+        "year": -3000,
+        "display": "3000 BC",
+        "sortKey": 7000,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 3000 BC"
+      },
+      "categories": [
+        "Europe",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_70",
+      "name": "Siege of Europe 2986 BC",
+      "date": {
+        "year": -2986,
+        "display": "2986 BC",
+        "sortKey": 7014,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2986 BC"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_72",
+      "name": "Campaign of Middle East 2940 BC",
+      "date": {
+        "year": -2940,
+        "display": "2940 BC",
+        "sortKey": 7060,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2940 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_71",
+      "name": "Siege of Asia 2921 BC",
+      "date": {
+        "year": -2921,
+        "display": "2921 BC",
+        "sortKey": 7079,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2921 BC"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_75",
+      "name": "Skirmish of Americas 2891 BC",
+      "date": {
+        "year": -2891,
+        "display": "2891 BC",
+        "sortKey": 7109,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2891 BC"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_77",
+      "name": "Skirmish of Americas 2889 BC",
+      "date": {
+        "year": -2889,
+        "display": "2889 BC",
+        "sortKey": 7111,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2889 BC"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_78",
+      "name": "Siege of Middle East 2870 BC",
+      "date": {
+        "year": -2870,
+        "display": "2870 BC",
+        "sortKey": 7130,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2870 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_74",
+      "name": "Raid of Africa 2823 BC",
+      "date": {
+        "year": -2823,
+        "display": "2823 BC",
+        "sortKey": 7177,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2823 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_76",
+      "name": "Campaign of Africa 2805 BC",
+      "date": {
+        "year": -2805,
+        "display": "2805 BC",
+        "sortKey": 7195,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2805 BC"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_80",
+      "name": "Campaign of Africa 2791 BC",
+      "date": {
+        "year": -2791,
+        "display": "2791 BC",
+        "sortKey": 7209,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2791 BC"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_79",
+      "name": "Naval Battle of Americas 2770 BC",
+      "date": {
+        "year": -2770,
+        "display": "2770 BC",
+        "sortKey": 7230,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2770 BC"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_81",
+      "name": "Skirmish of Asia 2701 BC",
+      "date": {
+        "year": -2701,
+        "display": "2701 BC",
+        "sortKey": 7299,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2701 BC"
+      },
+      "categories": [
+        "Asia",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_86",
+      "name": "Siege of Middle East 2677 BC",
+      "date": {
+        "year": -2677,
+        "display": "2677 BC",
+        "sortKey": 7323,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2677 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_84",
+      "name": "Campaign of Europe 2662 BC",
+      "date": {
+        "year": -2662,
+        "display": "2662 BC",
+        "sortKey": 7338,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2662 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_85",
+      "name": "Siege of Europe 2652 BC",
+      "date": {
+        "year": -2652,
+        "display": "2652 BC",
+        "sortKey": 7348,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2652 BC"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_82",
+      "name": "Naval Battle of Middle East 2645 BC",
+      "date": {
+        "year": -2645,
+        "display": "2645 BC",
+        "sortKey": 7355,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2645 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_83",
+      "name": "Siege of Middle East 2617 BC",
+      "date": {
+        "year": -2617,
+        "display": "2617 BC",
+        "sortKey": 7383,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2617 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_88",
+      "name": "Skirmish of Africa 2527 BC",
+      "date": {
+        "year": -2527,
+        "display": "2527 BC",
+        "sortKey": 7473,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2527 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_87",
+      "name": "Campaign of Middle East 2510 BC",
+      "date": {
+        "year": -2510,
+        "display": "2510 BC",
+        "sortKey": 7490,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2510 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_93",
+      "name": "Skirmish of Middle East 2497 BC",
+      "date": {
+        "year": -2497,
+        "display": "2497 BC",
+        "sortKey": 7503,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2497 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_91",
+      "name": "Raid of Africa 2473 BC",
+      "date": {
+        "year": -2473,
+        "display": "2473 BC",
+        "sortKey": 7527,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2473 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_92",
+      "name": "Siege of Americas 2460 BC",
+      "date": {
+        "year": -2460,
+        "display": "2460 BC",
+        "sortKey": 7540,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2460 BC"
+      },
+      "categories": [
+        "Americas",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_90",
+      "name": "Raid of Europe 2434 BC",
+      "date": {
+        "year": -2434,
+        "display": "2434 BC",
+        "sortKey": 7566,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2434 BC"
+      },
+      "categories": [
+        "Europe",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_89",
+      "name": "Skirmish of Europe 2405 BC",
+      "date": {
+        "year": -2405,
+        "display": "2405 BC",
+        "sortKey": 7595,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2405 BC"
+      },
+      "categories": [
+        "Europe",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_96",
+      "name": "Campaign of Africa 2295 BC",
+      "date": {
+        "year": -2295,
+        "display": "2295 BC",
+        "sortKey": 7705,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2295 BC"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_95",
+      "name": "Raid of Middle East 2292 BC",
+      "date": {
+        "year": -2292,
+        "display": "2292 BC",
+        "sortKey": 7708,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2292 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_94",
+      "name": "Campaign of Europe 2209 BC",
+      "date": {
+        "year": -2209,
+        "display": "2209 BC",
+        "sortKey": 7791,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2209 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_100",
+      "name": "Campaign of Europe 2146 BC",
+      "date": {
+        "year": -2146,
+        "display": "2146 BC",
+        "sortKey": 7854,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2146 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_98",
+      "name": "Naval Battle of Americas 2115 BC",
+      "date": {
+        "year": -2115,
+        "display": "2115 BC",
+        "sortKey": 7885,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2115 BC"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_97",
+      "name": "Siege of Asia 2112 BC",
+      "date": {
+        "year": -2112,
+        "display": "2112 BC",
+        "sortKey": 7888,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2112 BC"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_99",
+      "name": "Naval Battle of Middle East 2112 BC",
+      "date": {
+        "year": -2112,
+        "display": "2112 BC",
+        "sortKey": 7888,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2112 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_101",
+      "name": "Naval Battle of Americas 2072 BC",
+      "date": {
+        "year": -2072,
+        "display": "2072 BC",
+        "sortKey": 7928,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2072 BC"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_102",
+      "name": "Siege of Africa 2061 BC",
+      "date": {
+        "year": -2061,
+        "display": "2061 BC",
+        "sortKey": 7939,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2061 BC"
+      },
+      "categories": [
+        "Africa",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_103",
+      "name": "Raid of Africa 2058 BC",
+      "date": {
+        "year": -2058,
+        "display": "2058 BC",
+        "sortKey": 7942,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2058 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_104",
+      "name": "Naval Battle of Middle East 2015 BC",
+      "date": {
+        "year": -2015,
+        "display": "2015 BC",
+        "sortKey": 7985,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 2015 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_106",
+      "name": "Skirmish of Africa 1997 BC",
+      "date": {
+        "year": -1997,
+        "display": "1997 BC",
+        "sortKey": 8003,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1997 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_105",
+      "name": "Naval Battle of Europe 1984 BC",
+      "date": {
+        "year": -1984,
+        "display": "1984 BC",
+        "sortKey": 8016,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1984 BC"
+      },
+      "categories": [
+        "Europe",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_107",
+      "name": "Raid of Asia 1879 BC",
+      "date": {
+        "year": -1879,
+        "display": "1879 BC",
+        "sortKey": 8121,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1879 BC"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_108",
+      "name": "Skirmish of Africa 1846 BC",
+      "date": {
+        "year": -1846,
+        "display": "1846 BC",
+        "sortKey": 8154,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1846 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_111",
+      "name": "Siege of Europe 1846 BC",
+      "date": {
+        "year": -1846,
+        "display": "1846 BC",
+        "sortKey": 8154,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1846 BC"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_109",
+      "name": "Raid of Europe 1845 BC",
+      "date": {
+        "year": -1845,
+        "display": "1845 BC",
+        "sortKey": 8155,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1845 BC"
+      },
+      "categories": [
+        "Europe",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_110",
+      "name": "Campaign of Middle East 1838 BC",
+      "date": {
+        "year": -1838,
+        "display": "1838 BC",
+        "sortKey": 8162,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1838 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_112",
+      "name": "Campaign of Middle East 1783 BC",
+      "date": {
+        "year": -1783,
+        "display": "1783 BC",
+        "sortKey": 8217,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1783 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_115",
+      "name": "Naval Battle of Africa 1687 BC",
+      "date": {
+        "year": -1687,
+        "display": "1687 BC",
+        "sortKey": 8313,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1687 BC"
+      },
+      "categories": [
+        "Africa",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_113",
+      "name": "Siege of Africa 1686 BC",
+      "date": {
+        "year": -1686,
+        "display": "1686 BC",
+        "sortKey": 8314,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1686 BC"
+      },
+      "categories": [
+        "Africa",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_114",
+      "name": "Naval Battle of Middle East 1644 BC",
+      "date": {
+        "year": -1644,
+        "display": "1644 BC",
+        "sortKey": 8356,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1644 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_117",
+      "name": "Campaign of Middle East 1578 BC",
+      "date": {
+        "year": -1578,
+        "display": "1578 BC",
+        "sortKey": 8422,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1578 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_116",
+      "name": "Siege of Asia 1554 BC",
+      "date": {
+        "year": -1554,
+        "display": "1554 BC",
+        "sortKey": 8446,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1554 BC"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_119",
+      "name": "Siege of Europe 1482 BC",
+      "date": {
+        "year": -1482,
+        "display": "1482 BC",
+        "sortKey": 8518,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1482 BC"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_118",
+      "name": "Raid of Africa 1474 BC",
+      "date": {
+        "year": -1474,
+        "display": "1474 BC",
+        "sortKey": 8526,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1474 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_120",
+      "name": "Raid of Americas 1437 BC",
+      "date": {
+        "year": -1437,
+        "display": "1437 BC",
+        "sortKey": 8563,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1437 BC"
+      },
+      "categories": [
+        "Americas",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_121",
+      "name": "Skirmish of Africa 1432 BC",
+      "date": {
+        "year": -1432,
+        "display": "1432 BC",
+        "sortKey": 8568,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1432 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_123",
+      "name": "Campaign of Americas 1374 BC",
+      "date": {
+        "year": -1374,
+        "display": "1374 BC",
+        "sortKey": 8626,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1374 BC"
+      },
+      "categories": [
+        "Americas",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_124",
+      "name": "Campaign of Middle East 1341 BC",
+      "date": {
+        "year": -1341,
+        "display": "1341 BC",
+        "sortKey": 8659,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1341 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_122",
+      "name": "Skirmish of Asia 1301 BC",
+      "date": {
+        "year": -1301,
+        "display": "1301 BC",
+        "sortKey": 8699,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1301 BC"
+      },
+      "categories": [
+        "Asia",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_126",
+      "name": "Skirmish of Americas 1298 BC",
+      "date": {
+        "year": -1298,
+        "display": "1298 BC",
+        "sortKey": 8702,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1298 BC"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_125",
+      "name": "Siege of Africa 1261 BC",
+      "date": {
+        "year": -1261,
+        "display": "1261 BC",
+        "sortKey": 8739,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1261 BC"
+      },
+      "categories": [
+        "Africa",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_127",
+      "name": "Siege of Asia 1259 BC",
+      "date": {
+        "year": -1259,
+        "display": "1259 BC",
+        "sortKey": 8741,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1259 BC"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_129",
+      "name": "Raid of Africa 1253 BC",
+      "date": {
+        "year": -1253,
+        "display": "1253 BC",
+        "sortKey": 8747,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1253 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_128",
+      "name": "Siege of Americas 1241 BC",
+      "date": {
+        "year": -1241,
+        "display": "1241 BC",
+        "sortKey": 8759,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1241 BC"
+      },
+      "categories": [
+        "Americas",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_131",
+      "name": "Campaign of Asia 1168 BC",
+      "date": {
+        "year": -1168,
+        "display": "1168 BC",
+        "sortKey": 8832,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1168 BC"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_130",
+      "name": "Skirmish of Asia 1135 BC",
+      "date": {
+        "year": -1135,
+        "display": "1135 BC",
+        "sortKey": 8865,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1135 BC"
+      },
+      "categories": [
+        "Asia",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_134",
+      "name": "Campaign of Africa 1077 BC",
+      "date": {
+        "year": -1077,
+        "display": "1077 BC",
+        "sortKey": 8923,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1077 BC"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_132",
+      "name": "Raid of Europe 1046 BC",
+      "date": {
+        "year": -1046,
+        "display": "1046 BC",
+        "sortKey": 8954,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1046 BC"
+      },
+      "categories": [
+        "Europe",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_133",
+      "name": "Raid of Middle East 1033 BC",
+      "date": {
+        "year": -1033,
+        "display": "1033 BC",
+        "sortKey": 8967,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1033 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_135",
+      "name": "Campaign of Europe 1012 BC",
+      "date": {
+        "year": -1012,
+        "display": "1012 BC",
+        "sortKey": 8988,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 1012 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_136",
+      "name": "Siege of Asia 996 BC",
+      "date": {
+        "year": -996,
+        "display": "996 BC",
+        "sortKey": 9004,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 996 BC"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_137",
+      "name": "Skirmish of Middle East 922 BC",
+      "date": {
+        "year": -922,
+        "display": "922 BC",
+        "sortKey": 9078,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 922 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_140",
+      "name": "Naval Battle of Asia 892 BC",
+      "date": {
+        "year": -892,
+        "display": "892 BC",
+        "sortKey": 9108,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 892 BC"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_139",
+      "name": "Campaign of Middle East 843 BC",
+      "date": {
+        "year": -843,
+        "display": "843 BC",
+        "sortKey": 9157,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 843 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_141",
+      "name": "Raid of Americas 833 BC",
+      "date": {
+        "year": -833,
+        "display": "833 BC",
+        "sortKey": 9167,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 833 BC"
+      },
+      "categories": [
+        "Americas",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_138",
+      "name": "Campaign of Americas 824 BC",
+      "date": {
+        "year": -824,
+        "display": "824 BC",
+        "sortKey": 9176,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 824 BC"
+      },
+      "categories": [
+        "Americas",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_146",
+      "name": "Raid of Africa 752 BC",
+      "date": {
+        "year": -752,
+        "display": "752 BC",
+        "sortKey": 9248,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 752 BC"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_145",
+      "name": "Naval Battle of Americas 741 BC",
+      "date": {
+        "year": -741,
+        "display": "741 BC",
+        "sortKey": 9259,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 741 BC"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_144",
+      "name": "Campaign of Asia 737 BC",
+      "date": {
+        "year": -737,
+        "display": "737 BC",
+        "sortKey": 9263,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 737 BC"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_142",
+      "name": "Campaign of Middle East 728 BC",
+      "date": {
+        "year": -728,
+        "display": "728 BC",
+        "sortKey": 9272,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 728 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_143",
+      "name": "Naval Battle of Asia 706 BC",
+      "date": {
+        "year": -706,
+        "display": "706 BC",
+        "sortKey": 9294,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 706 BC"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_147",
+      "name": "Campaign of Europe 653 BC",
+      "date": {
+        "year": -653,
+        "display": "653 BC",
+        "sortKey": 9347,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 653 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_149",
+      "name": "Naval Battle of Americas 565 BC",
+      "date": {
+        "year": -565,
+        "display": "565 BC",
+        "sortKey": 9435,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 565 BC"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_151",
+      "name": "Skirmish of Americas 562 BC",
+      "date": {
+        "year": -562,
+        "display": "562 BC",
+        "sortKey": 9438,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 562 BC"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_150",
+      "name": "Naval Battle of Asia 549 BC",
+      "date": {
+        "year": -549,
+        "display": "549 BC",
+        "sortKey": 9451,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 549 BC"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_148",
+      "name": "Skirmish of Africa 521 BC",
+      "date": {
+        "year": -521,
+        "display": "521 BC",
+        "sortKey": 9479,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 521 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "battle_0",
+      "name": "Battle of Marathon",
+      "date": {
+        "year": -490,
+        "display": "September 490 BC",
+        "sortKey": 9510,
+        "confidence": "high",
+        "era": "BC",
+        "original": "September 490 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_1",
+      "name": "Battle of Thermopylae",
+      "date": {
+        "year": -480,
+        "display": "August 480 BC",
+        "sortKey": 9520,
+        "confidence": "high",
+        "era": "BC",
+        "original": "August 480 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_2",
+      "name": "Battle of Salamis",
+      "date": {
+        "year": -480,
+        "display": "September 480 BC",
+        "sortKey": 9520,
+        "confidence": "high",
+        "era": "BC",
+        "original": "September 480 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_3",
+      "name": "Battle of Plataea",
+      "date": {
+        "year": -479,
+        "display": "479 BC",
+        "sortKey": 9521,
+        "confidence": "high",
+        "era": "BC",
+        "original": "479 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_153",
+      "name": "Skirmish of Africa 355 BC",
+      "date": {
+        "year": -355,
+        "display": "355 BC",
+        "sortKey": 9645,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 355 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_155",
+      "name": "Campaign of Africa 345 BC",
+      "date": {
+        "year": -345,
+        "display": "345 BC",
+        "sortKey": 9655,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 345 BC"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_154",
+      "name": "Campaign of Asia 341 BC",
+      "date": {
+        "year": -341,
+        "display": "341 BC",
+        "sortKey": 9659,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 341 BC"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "battle_4",
+      "name": "Battle of Gaugamela",
+      "date": {
+        "year": -331,
+        "display": "1 October 331 BC",
+        "sortKey": 9669,
+        "confidence": "high",
+        "era": "BC",
+        "original": "1 October 331 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_152",
+      "name": "Skirmish of Europe 309 BC",
+      "date": {
+        "year": -309,
+        "display": "309 BC",
+        "sortKey": 9691,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 309 BC"
+      },
+      "categories": [
+        "Europe",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_156",
+      "name": "Skirmish of Africa 300 BC",
+      "date": {
+        "year": -300,
+        "display": "300 BC",
+        "sortKey": 9700,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 300 BC"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "battle_5",
+      "name": "Battle of Cannae",
+      "date": {
+        "year": -216,
+        "display": "2 August 216 BC",
+        "sortKey": 9784,
+        "confidence": "high",
+        "era": "BC",
+        "original": "2 August 216 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_6",
+      "name": "Battle of Zama",
+      "date": {
+        "year": -202,
+        "display": "19 October 202 BC",
+        "sortKey": 9798,
+        "confidence": "high",
+        "era": "BC",
+        "original": "19 October 202 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_159",
+      "name": "Naval Battle of Africa 159 BC",
+      "date": {
+        "year": -159,
+        "display": "159 BC",
+        "sortKey": 9841,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 159 BC"
+      },
+      "categories": [
+        "Africa",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_158",
+      "name": "Skirmish of Americas 142 BC",
+      "date": {
+        "year": -142,
+        "display": "142 BC",
+        "sortKey": 9858,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 142 BC"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_157",
+      "name": "Raid of Middle East 140 BC",
+      "date": {
+        "year": -140,
+        "display": "140 BC",
+        "sortKey": 9860,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 140 BC"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_161",
+      "name": "Siege of Americas 85 BC",
+      "date": {
+        "year": -85,
+        "display": "85 BC",
+        "sortKey": 9915,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 85 BC"
+      },
+      "categories": [
+        "Americas",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_160",
+      "name": "Campaign of Europe 83 BC",
+      "date": {
+        "year": -83,
+        "display": "83 BC",
+        "sortKey": 9917,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 83 BC"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_163",
+      "name": "Naval Battle of Asia 42 BC",
+      "date": {
+        "year": -42,
+        "display": "42 BC",
+        "sortKey": 9958,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 42 BC"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "battle_7",
+      "name": "Battle of Actium",
+      "date": {
+        "year": -31,
+        "display": "2 September 31 BC",
+        "sortKey": 9969,
+        "confidence": "high",
+        "era": "BC",
+        "original": "2 September 31 BC"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_162",
+      "name": "Siege of Americas 9 BC",
+      "date": {
+        "year": -9,
+        "display": "9 BC",
+        "sortKey": 9991,
+        "confidence": "low",
+        "era": "BC",
+        "original": "c. 9 BC"
+      },
+      "categories": [
+        "Americas",
+        "Siege"
+      ]
+    },
+    {
+      "id": "battle_8",
+      "name": "Battle of the Teutoburg Forest",
+      "date": {
+        "year": 9,
+        "display": "September 9 AD",
+        "sortKey": 10009,
+        "confidence": "high",
+        "era": "AD",
+        "original": "September 9 AD"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_165",
+      "name": "Naval Battle of Africa 28",
+      "date": {
+        "year": 28,
+        "display": "28",
+        "sortKey": 10028,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 28"
+      },
+      "categories": [
+        "Africa",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_164",
+      "name": "Raid of Middle East 56",
+      "date": {
+        "year": 56,
+        "display": "56",
+        "sortKey": 10056,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 56"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_166",
+      "name": "Skirmish of Middle East 63",
+      "date": {
+        "year": 63,
+        "display": "63",
+        "sortKey": 10063,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 63"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_168",
+      "name": "Campaign of Middle East 237",
+      "date": {
+        "year": 237,
+        "display": "237",
+        "sortKey": 10237,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 237"
+      },
+      "categories": [
+        "Middle East",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_170",
+      "name": "Siege of Europe 238",
+      "date": {
+        "year": 238,
+        "display": "238",
+        "sortKey": 10238,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 238"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_167",
+      "name": "Naval Battle of Africa 256",
+      "date": {
+        "year": 256,
+        "display": "256",
+        "sortKey": 10256,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 256"
+      },
+      "categories": [
+        "Africa",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_169",
+      "name": "Naval Battle of Asia 284",
+      "date": {
+        "year": 284,
+        "display": "284",
+        "sortKey": 10284,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 284"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_174",
+      "name": "Campaign of Europe 349",
+      "date": {
+        "year": 349,
+        "display": "349",
+        "sortKey": 10349,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 349"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_171",
+      "name": "Raid of Africa 362",
+      "date": {
+        "year": 362,
+        "display": "362",
+        "sortKey": 10362,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 362"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_175",
+      "name": "Skirmish of Middle East 362",
+      "date": {
+        "year": 362,
+        "display": "362",
+        "sortKey": 10362,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 362"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_173",
+      "name": "Campaign of Asia 367",
+      "date": {
+        "year": 367,
+        "display": "367",
+        "sortKey": 10367,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 367"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_172",
+      "name": "Skirmish of Africa 372",
+      "date": {
+        "year": 372,
+        "display": "372",
+        "sortKey": 10372,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 372"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "battle_9",
+      "name": "Battle of Adrianople",
+      "date": {
+        "year": 378,
+        "display": "9 August 378",
+        "sortKey": 10378,
+        "confidence": "high",
+        "era": "AD",
+        "original": "9 August 378"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_178",
+      "name": "Campaign of Asia 405",
+      "date": {
+        "year": 405,
+        "display": "405",
+        "sortKey": 10405,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 405"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_176",
+      "name": "Raid of Middle East 412",
+      "date": {
+        "year": 412,
+        "display": "412",
+        "sortKey": 10412,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 412"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_179",
+      "name": "Raid of Europe 434",
+      "date": {
+        "year": 434,
+        "display": "434",
+        "sortKey": 10434,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 434"
+      },
+      "categories": [
+        "Europe",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_177",
+      "name": "Naval Battle of Europe 496",
+      "date": {
+        "year": 496,
+        "display": "496",
+        "sortKey": 10496,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 496"
+      },
+      "categories": [
+        "Europe",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_180",
+      "name": "Naval Battle of Asia 565",
+      "date": {
+        "year": 565,
+        "display": "565",
+        "sortKey": 10565,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 565"
+      },
+      "categories": [
+        "Asia",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_182",
+      "name": "Raid of Asia 567",
+      "date": {
+        "year": 567,
+        "display": "567",
+        "sortKey": 10567,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 567"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_183",
+      "name": "Skirmish of Americas 571",
+      "date": {
+        "year": 571,
+        "display": "571",
+        "sortKey": 10571,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 571"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_181",
+      "name": "Skirmish of Asia 576",
+      "date": {
+        "year": 576,
+        "display": "576",
+        "sortKey": 10576,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 576"
+      },
+      "categories": [
+        "Asia",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_184",
+      "name": "Skirmish of Europe 602",
+      "date": {
+        "year": 602,
+        "display": "602",
+        "sortKey": 10602,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 602"
+      },
+      "categories": [
+        "Europe",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_185",
+      "name": "Skirmish of Americas 719",
+      "date": {
+        "year": 719,
+        "display": "719",
+        "sortKey": 10719,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 719"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_187",
+      "name": "Siege of Middle East 724",
+      "date": {
+        "year": 724,
+        "display": "724",
+        "sortKey": 10724,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 724"
+      },
+      "categories": [
+        "Middle East",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_186",
+      "name": "Siege of Europe 729",
+      "date": {
+        "year": 729,
+        "display": "729",
+        "sortKey": 10729,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 729"
+      },
+      "categories": [
+        "Europe",
+        "Siege"
+      ]
+    },
+    {
+      "id": "battle_10",
+      "name": "Battle of Tours",
+      "date": {
+        "year": 732,
+        "display": "10 October 732",
+        "sortKey": 10732,
+        "confidence": "high",
+        "era": "AD",
+        "original": "10 October 732"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_188",
+      "name": "Naval Battle of Middle East 789",
+      "date": {
+        "year": 789,
+        "display": "789",
+        "sortKey": 10789,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 789"
+      },
+      "categories": [
+        "Middle East",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_190",
+      "name": "Skirmish of Americas 829",
+      "date": {
+        "year": 829,
+        "display": "829",
+        "sortKey": 10829,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 829"
+      },
+      "categories": [
+        "Americas",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_191",
+      "name": "Raid of Africa 834",
+      "date": {
+        "year": 834,
+        "display": "834",
+        "sortKey": 10834,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 834"
+      },
+      "categories": [
+        "Africa",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_189",
+      "name": "Raid of Asia 844",
+      "date": {
+        "year": 844,
+        "display": "844",
+        "sortKey": 10844,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 844"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_192",
+      "name": "Naval Battle of Americas 903",
+      "date": {
+        "year": 903,
+        "display": "903",
+        "sortKey": 10903,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 903"
+      },
+      "categories": [
+        "Americas",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "generated_battle_195",
+      "name": "Siege of Americas 964",
+      "date": {
+        "year": 964,
+        "display": "964",
+        "sortKey": 10964,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 964"
+      },
+      "categories": [
+        "Americas",
+        "Siege"
+      ]
+    },
+    {
+      "id": "generated_battle_193",
+      "name": "Campaign of Africa 971",
+      "date": {
+        "year": 971,
+        "display": "971",
+        "sortKey": 10971,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 971"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_194",
+      "name": "Raid of Middle East 984",
+      "date": {
+        "year": 984,
+        "display": "984",
+        "sortKey": 10984,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 984"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_197",
+      "name": "Raid of Americas 1021",
+      "date": {
+        "year": 1021,
+        "display": "1021",
+        "sortKey": 11021,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1021"
+      },
+      "categories": [
+        "Americas",
+        "Raid"
+      ]
+    },
+    {
+      "id": "generated_battle_198",
+      "name": "Campaign of Europe 1045",
+      "date": {
+        "year": 1045,
+        "display": "1045",
+        "sortKey": 11045,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1045"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "battle_11",
+      "name": "Battle of Hastings",
+      "date": {
+        "year": 1066,
+        "display": "14 October 1066",
+        "sortKey": 11066,
+        "confidence": "high",
+        "era": "AD",
+        "original": "14 October 1066"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_12",
+      "name": "Battle of Manzikert",
+      "date": {
+        "year": 1071,
+        "display": "26 August 1071",
+        "sortKey": 11071,
+        "confidence": "high",
+        "era": "AD",
+        "original": "26 August 1071"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_196",
+      "name": "Siege of Asia 1091",
+      "date": {
+        "year": 1091,
+        "display": "1091",
+        "sortKey": 11091,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1091"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "battle_13",
+      "name": "Battle of Hattin",
+      "date": {
+        "year": 1187,
+        "display": "4 July 1187",
+        "sortKey": 11187,
+        "confidence": "high",
+        "era": "AD",
+        "original": "4 July 1187"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_14",
+      "name": "Battle of Bouvines",
+      "date": {
+        "year": 1214,
+        "display": "27 July 1214",
+        "sortKey": 11214,
+        "confidence": "high",
+        "era": "AD",
+        "original": "27 July 1214"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_15",
+      "name": "Battle of Ain Jalut",
+      "date": {
+        "year": 1260,
+        "display": "3 September 1260",
+        "sortKey": 11260,
+        "confidence": "high",
+        "era": "AD",
+        "original": "3 September 1260"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_16",
+      "name": "Battle of Cr\u00e9cy",
+      "date": {
+        "year": 1346,
+        "display": "26 August 1346",
+        "sortKey": 11346,
+        "confidence": "high",
+        "era": "AD",
+        "original": "26 August 1346"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_17",
+      "name": "Battle of Poitiers",
+      "date": {
+        "year": 1356,
+        "display": "19 September 1356",
+        "sortKey": 11356,
+        "confidence": "high",
+        "era": "AD",
+        "original": "19 September 1356"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_18",
+      "name": "Battle of Kosovo",
+      "date": {
+        "year": 1389,
+        "display": "15 June 1389",
+        "sortKey": 11389,
+        "confidence": "high",
+        "era": "AD",
+        "original": "15 June 1389"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_19",
+      "name": "Battle of Agincourt",
+      "date": {
+        "year": 1415,
+        "display": "25 October 1415",
+        "sortKey": 11415,
+        "confidence": "high",
+        "era": "AD",
+        "original": "25 October 1415"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_199",
+      "name": "Skirmish of Middle East 1469",
+      "date": {
+        "year": 1469,
+        "display": "1469",
+        "sortKey": 11469,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1469"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_200",
+      "name": "Siege of Africa 1485",
+      "date": {
+        "year": 1485,
+        "display": "1485",
+        "sortKey": 11485,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1485"
+      },
+      "categories": [
+        "Africa",
+        "Siege"
+      ]
+    },
+    {
+      "id": "battle_20",
+      "name": "Battle of Pavia",
+      "date": {
+        "year": 1525,
+        "display": "24 February 1525",
+        "sortKey": 11525,
+        "confidence": "high",
+        "era": "AD",
+        "original": "24 February 1525"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_202",
+      "name": "Campaign of Europe 1552",
+      "date": {
+        "year": 1552,
+        "display": "1552",
+        "sortKey": 11552,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1552"
+      },
+      "categories": [
+        "Europe",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_201",
+      "name": "Campaign of Africa 1560",
+      "date": {
+        "year": 1560,
+        "display": "1560",
+        "sortKey": 11560,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1560"
+      },
+      "categories": [
+        "Africa",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "battle_21",
+      "name": "Battle of Lepanto",
+      "date": {
+        "year": 1571,
+        "display": "7 October 1571",
+        "sortKey": 11571,
+        "confidence": "high",
+        "era": "AD",
+        "original": "7 October 1571"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_203",
+      "name": "Skirmish of Middle East 1572",
+      "date": {
+        "year": 1572,
+        "display": "1572",
+        "sortKey": 11572,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1572"
+      },
+      "categories": [
+        "Middle East",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_205",
+      "name": "Skirmish of Africa 1605",
+      "date": {
+        "year": 1605,
+        "display": "1605",
+        "sortKey": 11605,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1605"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_207",
+      "name": "Skirmish of Africa 1661",
+      "date": {
+        "year": 1661,
+        "display": "1661",
+        "sortKey": 11661,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1661"
+      },
+      "categories": [
+        "Africa",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_206",
+      "name": "Skirmish of Europe 1668",
+      "date": {
+        "year": 1668,
+        "display": "1668",
+        "sortKey": 11668,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1668"
+      },
+      "categories": [
+        "Europe",
+        "Skirmish"
+      ]
+    },
+    {
+      "id": "generated_battle_204",
+      "name": "Raid of Asia 1674",
+      "date": {
+        "year": 1674,
+        "display": "1674",
+        "sortKey": 11674,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1674"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    },
+    {
+      "id": "battle_22",
+      "name": "Battle of Vienna",
+      "date": {
+        "year": 1683,
+        "display": "12 September 1683",
+        "sortKey": 11683,
+        "confidence": "high",
+        "era": "AD",
+        "original": "12 September 1683"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_23",
+      "name": "Battle of Blenheim",
+      "date": {
+        "year": 1704,
+        "display": "13 August 1704",
+        "sortKey": 11704,
+        "confidence": "high",
+        "era": "AD",
+        "original": "13 August 1704"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_24",
+      "name": "Battle of Poltava",
+      "date": {
+        "year": 1709,
+        "display": "8 July 1709",
+        "sortKey": 11709,
+        "confidence": "high",
+        "era": "AD",
+        "original": "8 July 1709"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_209",
+      "name": "Siege of Asia 1746",
+      "date": {
+        "year": 1746,
+        "display": "1746",
+        "sortKey": 11746,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1746"
+      },
+      "categories": [
+        "Asia",
+        "Siege"
+      ]
+    },
+    {
+      "id": "battle_25",
+      "name": "Battle of Plassey",
+      "date": {
+        "year": 1757,
+        "display": "23 June 1757",
+        "sortKey": 11757,
+        "confidence": "high",
+        "era": "AD",
+        "original": "23 June 1757"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_26",
+      "name": "Battle of Quebec",
+      "date": {
+        "year": 1759,
+        "display": "13 September 1759",
+        "sortKey": 11759,
+        "confidence": "high",
+        "era": "AD",
+        "original": "13 September 1759"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_208",
+      "name": "Raid of Middle East 1759",
+      "date": {
+        "year": 1759,
+        "display": "1759",
+        "sortKey": 11759,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1759"
+      },
+      "categories": [
+        "Middle East",
+        "Raid"
+      ]
+    },
+    {
+      "id": "battle_27",
+      "name": "Battle of Bunker Hill",
+      "date": {
+        "year": 1775,
+        "display": "17 June 1775",
+        "sortKey": 11775,
+        "confidence": "high",
+        "era": "AD",
+        "original": "17 June 1775"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_28",
+      "name": "Battle of Saratoga",
+      "date": {
+        "year": 1777,
+        "display": "19 September 1777",
+        "sortKey": 11777,
+        "confidence": "high",
+        "era": "AD",
+        "original": "19 September 1777"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_29",
+      "name": "Battle of Yorktown",
+      "date": {
+        "year": 1781,
+        "display": "28 September 1781",
+        "sortKey": 11781,
+        "confidence": "high",
+        "era": "AD",
+        "original": "28 September 1781"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_30",
+      "name": "Battle of Valmy",
+      "date": {
+        "year": 1792,
+        "display": "20 September 1792",
+        "sortKey": 11792,
+        "confidence": "high",
+        "era": "AD",
+        "original": "20 September 1792"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_31",
+      "name": "Battle of the Pyramids",
+      "date": {
+        "year": 1798,
+        "display": "21 July 1798",
+        "sortKey": 11798,
+        "confidence": "high",
+        "era": "AD",
+        "original": "21 July 1798"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_32",
+      "name": "Battle of Marengo",
+      "date": {
+        "year": 1800,
+        "display": "14 June 1800",
+        "sortKey": 11800,
+        "confidence": "high",
+        "era": "AD",
+        "original": "14 June 1800"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_33",
+      "name": "Battle of Trafalgar",
+      "date": {
+        "year": 1805,
+        "display": "21 October 1805",
+        "sortKey": 11805,
+        "confidence": "high",
+        "era": "AD",
+        "original": "21 October 1805"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_34",
+      "name": "Battle of Austerlitz",
+      "date": {
+        "year": 1805,
+        "display": "2 December 1805",
+        "sortKey": 11805,
+        "confidence": "high",
+        "era": "AD",
+        "original": "2 December 1805"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_35",
+      "name": "Battle of Jena-Auerstedt",
+      "date": {
+        "year": 1806,
+        "display": "14 October 1806",
+        "sortKey": 11806,
+        "confidence": "high",
+        "era": "AD",
+        "original": "14 October 1806"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_36",
+      "name": "Battle of Wagram",
+      "date": {
+        "year": 1809,
+        "display": "5-6 July 1809",
+        "sortKey": 11809,
+        "confidence": "high",
+        "era": "AD",
+        "original": "5-6 July 1809"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_37",
+      "name": "Battle of Borodino",
+      "date": {
+        "year": 1812,
+        "display": "7 September 1812",
+        "sortKey": 11812,
+        "confidence": "high",
+        "era": "AD",
+        "original": "7 September 1812"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_38",
+      "name": "Battle of Leipzig",
+      "date": {
+        "year": 1813,
+        "display": "16-19 October 1813",
+        "sortKey": 11813,
+        "confidence": "high",
+        "era": "AD",
+        "original": "16-19 October 1813"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_39",
+      "name": "Battle of Waterloo",
+      "date": {
+        "year": 1815,
+        "display": "18 June 1815",
+        "sortKey": 11815,
+        "confidence": "high",
+        "era": "AD",
+        "original": "18 June 1815"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_40",
+      "name": "Battle of the Alamo",
+      "date": {
+        "year": 1836,
+        "display": "23 February 1836",
+        "sortKey": 11836,
+        "confidence": "high",
+        "era": "AD",
+        "original": "23 February 1836"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_41",
+      "name": "Battle of Balaclava",
+      "date": {
+        "year": 1854,
+        "display": "25 October 1854",
+        "sortKey": 11854,
+        "confidence": "high",
+        "era": "AD",
+        "original": "25 October 1854"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_42",
+      "name": "Battle of Gettysburg",
+      "date": {
+        "year": 1863,
+        "display": "1-3 July 1863",
+        "sortKey": 11863,
+        "confidence": "high",
+        "era": "AD",
+        "original": "1-3 July 1863"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_43",
+      "name": "Battle of K\u00f6niggr\u00e4tz",
+      "date": {
+        "year": 1866,
+        "display": "3 July 1866",
+        "sortKey": 11866,
+        "confidence": "high",
+        "era": "AD",
+        "original": "3 July 1866"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_44",
+      "name": "Battle of Sedan",
+      "date": {
+        "year": 1870,
+        "display": "1 September 1870",
+        "sortKey": 11870,
+        "confidence": "high",
+        "era": "AD",
+        "original": "1 September 1870"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_210",
+      "name": "Raid of Asia 1874",
+      "date": {
+        "year": 1874,
+        "display": "1874",
+        "sortKey": 11874,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 1874"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    },
+    {
+      "id": "battle_45",
+      "name": "Battle of Little Bighorn",
+      "date": {
+        "year": 1876,
+        "display": "25-26 June 1876",
+        "sortKey": 11876,
+        "confidence": "high",
+        "era": "AD",
+        "original": "25-26 June 1876"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_46",
+      "name": "Battle of Isandlwana",
+      "date": {
+        "year": 1879,
+        "display": "22 January 1879",
+        "sortKey": 11879,
+        "confidence": "high",
+        "era": "AD",
+        "original": "22 January 1879"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_47",
+      "name": "Battle of Adwa",
+      "date": {
+        "year": 1896,
+        "display": "1 March 1896",
+        "sortKey": 11896,
+        "confidence": "high",
+        "era": "AD",
+        "original": "1 March 1896"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_48",
+      "name": "Battle of Tsushima",
+      "date": {
+        "year": 1905,
+        "display": "27-28 May 1905",
+        "sortKey": 11905,
+        "confidence": "high",
+        "era": "AD",
+        "original": "27-28 May 1905"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_49",
+      "name": "Battle of Tannenberg",
+      "date": {
+        "year": 1914,
+        "display": "26-30 August 1914",
+        "sortKey": 11914,
+        "confidence": "high",
+        "era": "AD",
+        "original": "26-30 August 1914"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_50",
+      "name": "Battle of the Marne",
+      "date": {
+        "year": 1914,
+        "display": "5-12 September 1914",
+        "sortKey": 11914,
+        "confidence": "high",
+        "era": "AD",
+        "original": "5-12 September 1914"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_51",
+      "name": "Battle of Gallipoli",
+      "date": {
+        "year": 1915,
+        "display": "25 April 1915",
+        "sortKey": 11915,
+        "confidence": "high",
+        "era": "AD",
+        "original": "25 April 1915"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_52",
+      "name": "Battle of Verdun",
+      "date": {
+        "year": 1916,
+        "display": "21 February 1916",
+        "sortKey": 11916,
+        "confidence": "high",
+        "era": "AD",
+        "original": "21 February 1916"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_53",
+      "name": "Battle of the Somme",
+      "date": {
+        "year": 1916,
+        "display": "1 July 1916",
+        "sortKey": 11916,
+        "confidence": "high",
+        "era": "AD",
+        "original": "1 July 1916"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_54",
+      "name": "Battle of Passchendaele",
+      "date": {
+        "year": 1917,
+        "display": "31 July 1917",
+        "sortKey": 11917,
+        "confidence": "high",
+        "era": "AD",
+        "original": "31 July 1917"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_55",
+      "name": "Battle of Poland",
+      "date": {
+        "year": 1939,
+        "display": "1 September 1939",
+        "sortKey": 11939,
+        "confidence": "high",
+        "era": "AD",
+        "original": "1 September 1939"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_56",
+      "name": "Battle of Britain",
+      "date": {
+        "year": 1940,
+        "display": "10 July 1940",
+        "sortKey": 11940,
+        "confidence": "high",
+        "era": "AD",
+        "original": "10 July 1940"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_57",
+      "name": "Battle of Moscow",
+      "date": {
+        "year": 1941,
+        "display": "2 October 1941",
+        "sortKey": 11941,
+        "confidence": "high",
+        "era": "AD",
+        "original": "2 October 1941"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_58",
+      "name": "Battle of Pearl Harbor",
+      "date": {
+        "year": 1941,
+        "display": "7 December 1941",
+        "sortKey": 11941,
+        "confidence": "high",
+        "era": "AD",
+        "original": "7 December 1941"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_59",
+      "name": "Battle of Midway",
+      "date": {
+        "year": 1942,
+        "display": "4-7 June 1942",
+        "sortKey": 11942,
+        "confidence": "high",
+        "era": "AD",
+        "original": "4-7 June 1942"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_60",
+      "name": "Battle of Stalingrad",
+      "date": {
+        "year": 1942,
+        "display": "23 August 1942",
+        "sortKey": 11942,
+        "confidence": "high",
+        "era": "AD",
+        "original": "23 August 1942"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_61",
+      "name": "Battle of Kursk",
+      "date": {
+        "year": 1943,
+        "display": "5 July 1943",
+        "sortKey": 11943,
+        "confidence": "high",
+        "era": "AD",
+        "original": "5 July 1943"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_62",
+      "name": "Battle of Normandy",
+      "date": {
+        "year": 1944,
+        "display": "6 June 1944",
+        "sortKey": 11944,
+        "confidence": "high",
+        "era": "AD",
+        "original": "6 June 1944"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_63",
+      "name": "Battle of the Philippine Sea",
+      "date": {
+        "year": 1944,
+        "display": "19-20 June 1944",
+        "sortKey": 11944,
+        "confidence": "high",
+        "era": "AD",
+        "original": "19-20 June 1944"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_64",
+      "name": "Battle of Berlin",
+      "date": {
+        "year": 1945,
+        "display": "16 April 1945",
+        "sortKey": 11945,
+        "confidence": "high",
+        "era": "AD",
+        "original": "16 April 1945"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_65",
+      "name": "Battle of Inchon",
+      "date": {
+        "year": 1950,
+        "display": "15 September 1950",
+        "sortKey": 11950,
+        "confidence": "high",
+        "era": "AD",
+        "original": "15 September 1950"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_66",
+      "name": "Battle of Dien Bien Phu",
+      "date": {
+        "year": 1954,
+        "display": "13 March 1954",
+        "sortKey": 11954,
+        "confidence": "high",
+        "era": "AD",
+        "original": "13 March 1954"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_67",
+      "name": "Battle of Ia Drang",
+      "date": {
+        "year": 1965,
+        "display": "14 November 1965",
+        "sortKey": 11965,
+        "confidence": "high",
+        "era": "AD",
+        "original": "14 November 1965"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_68",
+      "name": "Battle of Khe Sanh",
+      "date": {
+        "year": 1968,
+        "display": "21 January 1968",
+        "sortKey": 11968,
+        "confidence": "high",
+        "era": "AD",
+        "original": "21 January 1968"
+      },
+      "categories": []
+    },
+    {
+      "id": "battle_69",
+      "name": "Battle of 73 Easting",
+      "date": {
+        "year": 1991,
+        "display": "26 February 1991",
+        "sortKey": 11991,
+        "confidence": "high",
+        "era": "AD",
+        "original": "26 February 1991"
+      },
+      "categories": []
+    },
+    {
+      "id": "generated_battle_211",
+      "name": "Campaign of Asia 2083",
+      "date": {
+        "year": 2083,
+        "display": "2083",
+        "sortKey": 12083,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 2083"
+      },
+      "categories": [
+        "Asia",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "generated_battle_212",
+      "name": "Raid of Asia 2091",
+      "date": {
+        "year": 2091,
+        "display": "2091",
+        "sortKey": 12091,
+        "confidence": "low",
+        "era": "AD",
+        "original": "c. 2091"
+      },
+      "categories": [
+        "Asia",
+        "Raid"
+      ]
+    }
+  ],
+  "metadata": {
+    "total": 213,
+    "dateRange": {
+      "earliest": -3000,
+      "latest": 2091
+    },
+    "generated": "2025-07-02T12:54:57.410864"
+  }
+}
